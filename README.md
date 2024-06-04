@@ -23,8 +23,5 @@ I'm a passionate .NET Developer currently working at [tedee](https://www.tedee.c
 Feel free to reach out if you want to discuss technology, development, or anything in between. I'm always open to new opportunities and collaborations.
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-## 📄 Resume
-You can find my resume [here](link-to-your-resume).
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=klucyszy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klucyszy&layout=compact&theme=radical)
